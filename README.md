@@ -1,8 +1,12 @@
-z# 👋 Welcome to Sama Sayed's GitHub Profile!
+<h1 align="center">
+  <span style="font-size: 3em; font-weight: bold; background: linear-gradient(90deg, #ff6ec4, #7873f5, #4ade80); -webkit-background-clip: text; color: transparent; animation: gradientMove 3s infinite linear;">
+    👋 Welcome to Sama Sayed's GitHub Profile!
+  </span>
+</h1>
 
 Hi, I'm **Sama Sayed**, a Software Engineering student at **Helwan University, Egypt**.  
 I’m passionate about creating interactive, user-friendly, and scalable web applications.  
-I love exploring new technologies, especially in **front-end development**, and I’m always striving to improve my skills to build modern digital experiences. 🚀
+I love exploring new technologies, especially in **front-end development**, and I’m always striving to improve my skills to build modern digital experiences. 🚀  
 
 ---
 
@@ -11,17 +15,16 @@ I love exploring new technologies, especially in **front-end development**, and 
 - 💻 Interested in **Web Development**, especially front-end technologies like **React**.  
 - 🌱 Currently learning and experimenting with **TypeScript** and **Tailwind CSS**.  
 - ⚡ I enjoy problem-solving and transforming ideas into real projects.  
-- ✨ Motto: *"Always learning, always building."*
+- ✨ Motto: *"Always learning, always building."*  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sama-Zain&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sama-Zain&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Sama-Zain&theme=radical" alt="GitHub Streak" height="180"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sama-Zain&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
 ---
