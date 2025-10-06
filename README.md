@@ -19,7 +19,7 @@ I love exploring new technologies, especially in **front-end development**, and 
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sama-Zain&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
