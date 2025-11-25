@@ -32,11 +32,7 @@ I love exploring new technologies, especially in **front-end development**, and 
 </p>
 
 <p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sama-Zain&layout=compact&theme=tokyonight&border_radius=10" 
-       height="170"
-  />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sama-Zain&layout=compact&theme=radical" height="180" />
 
 # 🛠️ Technologies I Use
 
