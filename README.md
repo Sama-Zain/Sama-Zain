@@ -22,10 +22,6 @@ I love exploring new technologies, especially in **front-end development**, and 
 ## 📊 GitHub Stats
 <p align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=Sama-Zain&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=10" 
-       height="170"
-  />
-  <img 
        src="https://streak-stats.demolab.com?user=Sama-Zain&theme=tokyonight&border_radius=10" 
        height="170"
   />
